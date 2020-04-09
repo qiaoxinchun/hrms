@@ -12,5 +12,8 @@ class HrmsApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
+	@Test
+	void test1() {
+        System.out.println("主干代码");
+    }
 }
