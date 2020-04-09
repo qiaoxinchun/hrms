@@ -9,5 +9,7 @@ class HrmsApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
+	@Test
+	void test1() {
+	}
 }
