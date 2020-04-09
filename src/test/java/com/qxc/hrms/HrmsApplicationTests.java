@@ -14,9 +14,8 @@ class HrmsApplicationTests {
 	}
 	@Test
 	void test1() {
-        System.out.println("主干代码");
-    }
-
+		System.out.println("主干代码");
+	}
 
 	void test2() {
 		System.out.println("第二次提交主干代码");
