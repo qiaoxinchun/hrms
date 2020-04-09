@@ -11,5 +11,6 @@ class HrmsApplicationTests {
 	}
 	@Test
 	void test1() {
-	}
+        System.out.println("主干代码");
+    }
 }
