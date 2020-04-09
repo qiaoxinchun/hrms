@@ -20,4 +20,7 @@ class HrmsApplicationTests {
 	void test2() {
 		System.out.println("第二次提交主干代码");
 	}
+	void test3() {
+		System.out.println("第3次提交主干代码");
+	}
 }
