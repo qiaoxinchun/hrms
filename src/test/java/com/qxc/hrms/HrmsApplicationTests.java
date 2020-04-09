@@ -6,6 +6,9 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class HrmsApplicationTests {
 
+	public static void main(String[] args) {
+		System.out.println("提交到远程分支my_hrms_test");
+	}
 	@Test
 	void contextLoads() {
 	}
